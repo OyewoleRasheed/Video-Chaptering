@@ -27,7 +27,7 @@ pip install numpy pandas sklearn matplotlib nltk google-api-python-client
 video_chaptering/
 │
 ├── video_chaptering.py         # Main script
-├── transcript.csv              # Input transcript (timestamped)
+├── 71op1DQ2gyo_transcript.csv              # Input transcript (timestamped)
 ├── chapters_output.json        # Output: list of chapters and topics
 ├── README.md                   # This file
 ```
